@@ -46,15 +46,10 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/yaaeww/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/yaaeww" target="_blank">
+  <a href="https://instagram.com/ihyaaa_27" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/yaaeww" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
-  </a>
+
 </p>
 
 ---
