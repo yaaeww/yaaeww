@@ -2,19 +2,17 @@
 
 <p align="center">
   <a href="https://github.com/yaaeww">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Laravel+%7C+React+%7C+TailwindCSS;Open+Source+Contributor;Always+Learning+New+Things+🔥" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Laravel+%7C+React+%7C+TailwindCSS;Open+Source+Contributor;Always+Learning+New+Things+🔥" alt="Typing SVG" />
   </a>
 </p>
 
 
 ---
-
-## 🚀 About Me
-- 🔭 I’m currently working on **Web Development Projects (Laravel, React, etc.)**
-- 🌱 I’m currently learning **DevOps, Cloud, and AI**
-- 👯 I’m looking to collaborate on **Open Source & Startup Projects**
-- 💬 Ask me about **Laravel | JavaScript | PHP | Python**
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-muhammadihya11289@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ihya.red@gmail.com)
+## 🚀 Tentang Saya  
+- 👤 Nama saya **Muhammad Ihya 'Ulumuddin**  
+- 🎓 Saya berstatus **Mahasiswa Program Studi D4 Rekayasa Perangkat Lunak**  
+- 💻 Latar belakang saya adalah seorang **Web Developer & Designer**  
+- 🛠️ Bahasa dan teknologi yang saya gunakan: **Python, JavaScript, PHP, SQL, Laravel, HTML, dan CSS**  
 
 ---
 
