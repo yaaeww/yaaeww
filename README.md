@@ -32,9 +32,6 @@
 ## 📊 GitHub Stats
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaaeww&theme=radical" alt="streak stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaaeww&layout=compact&theme=radical" alt="top langs" />
