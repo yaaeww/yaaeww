@@ -16,13 +16,10 @@
 
 ---
 
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+## 🧰 Tech Toolbox  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,bootstrap,tailwind,flutter,dart,firebase,git,github,vscode,figma&theme=dark&perline=7" />
 </p>
 
 ---
