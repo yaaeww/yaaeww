@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/yaaeww">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Laravel+%7C+React+%7C+TailwindCSS;Open+Source+Contributor;Always+Learning+New+Things+🔥" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=#87CEEB&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Laravel+%7C+React+%7C+TailwindCSS;Open+Source+Contributor;Always+Learning+New+Things+🔥" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 ## 🚀 Tentang Saya  
 - 👤 Nama saya **Muhammad Ihya 'Ulumuddin**  
 - 🎓 Saya berstatus **Mahasiswa Program Studi D4 Rekayasa Perangkat Lunak**  
-- 💻 Latar belakang saya adalah seorang **FUllSTACK DEVELOPPER**  
+- 💻 Latar belakang saya adalah seorang **FULLSTACK DEVELOPPER**  
 - 🛠️ Bahasa dan teknologi yang saya gunakan: **Python, JavaScript, PHP, SQL, Laravel, HTML, dan CSS**  
 
 ---
