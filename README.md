@@ -11,7 +11,7 @@
 ## 🚀 Tentang Saya  
 - 👤 Nama saya **Muhammad Ihya 'Ulumuddin**  
 - 🎓 Saya berstatus **Mahasiswa Program Studi D4 Rekayasa Perangkat Lunak**  
-- 💻 Latar belakang saya adalah seorang **Web Developer & Designer**  
+- 💻 Latar belakang saya adalah seorang **FUllSTACK DEVELOPPER**  
 - 🛠️ Bahasa dan teknologi yang saya gunakan: **Python, JavaScript, PHP, SQL, Laravel, HTML, dan CSS**  
 
 ---
