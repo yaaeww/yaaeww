@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/yaaeww">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FAFF55&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Laravel+%7C+React+%7C+TailwindCSS;Open+Source+Contributor;aku+wong+jowo+mas+🔥;always+learning+and+low+profile+🔥" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1a75ff&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Laravel+%7C+React+%7C+TailwindCSS;Open+Source+Contributor;aku+wong+jowo+mas+🔥;always+learning+and+low+profile+🔥" alt="Typing SVG" />
   </a>
 </p>
 
